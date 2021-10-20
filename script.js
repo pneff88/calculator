@@ -112,3 +112,4 @@ clear.addEventListener('click', () => {
     displayString = ''
     calculatorDisplay.textContent = displayString;
 })
+
