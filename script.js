@@ -87,7 +87,7 @@ times.addEventListener('click', () => {
 })
 divide.addEventListener('click', () => {
     numA = Number(displayString);
-    displayString = ' - '
+    displayString = ' / '
     calculatorDisplay.textContent = displayString;
 })
 
